@@ -1,5 +1,7 @@
 # Retrieve weather data from Environment Canada #
 
+Originally forked from https://github.com/gilyes/weather-envcanada and code updates have been merged back up with their master branch.
+
 ## Getting weather ##
 
 ```javascript
